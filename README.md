@@ -26,8 +26,8 @@ I fine-tuned **ViT-base-patch16-224** for the strong lensing image classificatio
 These results indicate strong classification performance across all three classes.
 
 ### Results
-![ROC-AUC Curves](images/lens.png)
-![ROC-AUC Curves Testing](images/lens.png)
+![ROC-AUC Curves](roc_curves.png)
+![ROC-AUC Curves Testing](test_roc_curves.png)
 
 ---
 
