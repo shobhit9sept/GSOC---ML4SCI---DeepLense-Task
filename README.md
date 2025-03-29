@@ -50,7 +50,7 @@ I implemented a **Masked Autoencoder (MAE)** to learn feature representations fr
 These results suggest the model effectively reconstructs missing parts of input images, demonstrating its potential for pretraining in downstream tasks like lens classification and anomaly detection.
 
 ### Results
-![MAE Reconstruction](images/lens.png)
+![MAE Reconstruction](Imgs/__results___22_1.png)
 
 ---
 
