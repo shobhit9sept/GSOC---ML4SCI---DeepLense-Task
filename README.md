@@ -97,7 +97,7 @@ I fine-tuned a pretrained **MAE encoder** for **super-resolution**, upscaling im
 These results indicate strong reconstruction quality and effective fine-tuning.
 
 ### Results
-![Super-Resolution Output]([images/lens.png](https://github.com/shobhit9sept/GSOC---ML4SCI---DeepLense-Task/blob/main/training_curves_SR.png))
+![Super-Resolution Output](training_curves_SR.png)
 
 ---
 
