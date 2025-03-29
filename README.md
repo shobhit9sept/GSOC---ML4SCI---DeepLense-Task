@@ -26,8 +26,8 @@ I fine-tuned **ViT-base-patch16-224** for the strong lensing image classificatio
 These results indicate strong classification performance across all three classes.
 
 ### Results
-![ROC-AUC Curves](roc_curves.png)
-![ROC-AUC Curves Testing](test_roc_curves.png)
+![ROC-AUC Curves](Imgs/roc_curves.png)
+![ROC-AUC Curves Testing](Imgs/test_roc_curves.png)
 
 ---
 
@@ -97,7 +97,7 @@ I fine-tuned a pretrained **MAE encoder** for **super-resolution**, upscaling im
 These results indicate strong reconstruction quality and effective fine-tuning.
 
 ### Results
-![Super-Resolution Output](training_curves_SR.png)
+![Super-Resolution Output](Imgs/training_curves_SR.png)
 
 ---
 
