@@ -4,7 +4,7 @@ This document serves as my submission for the DeepLense assignment as part of GS
 
 ---
 
-## Task I: Image Classification using PyTorch/Keras
+## Task I: Image Classification using PyTorch
 
 ### Approach
 I fine-tuned **ViT-base-patch16-224** for the strong lensing image classification task using the provided dataset, which contains **10K images per class**.
